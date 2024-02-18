@@ -1,10 +1,11 @@
 ## StudyChain:
 
-Web3 based online learning platform:
+Web3-based online learning platform with a Progressive learning model for the enhancement of adoption of dApp 
+This model will provide basic knowledge and skills to users about blockchain technology and dApp
 
 ## Folder Structure:
 
-1. Contracts: Contain studychain main contract.
+1. Contracts: Contain study chain main contract.
 2. Server: Basic server to keep user information.
 3. src: Contains React application code.
 
